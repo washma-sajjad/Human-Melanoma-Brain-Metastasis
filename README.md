@@ -252,8 +252,8 @@ This neuronal-like signature was:
 - Verified at the protein level: NCAM1 protein was significantly enriched in cancer cells in MBM vs. ECM by multiplexed immunofluorescence on 42 patient samples
 
 Why does this matter? Melanoma comes from neural crest cells embryologically, so some neural gene expression is expected. But this goes beyond baseline — MBM cells seem to be actively taking on more neuron-like characteristics, possibly to better fit into and survive in the brain microenvironment.
-![Figure 3C – Neuronal program key finding](reproduction%20scripts/03_cancer_cell_states/output_figures/Fig3C%20neuronal-1.png)
-![Figure 3D – Neuronal genes MBM vs MPM](reproduction%20scripts/03_cancer_cell_states/output_figures/Fig3D%20neuronal_dot-1.png)
+![Figure 3C – Neuronal program key finding](reproduction%20scripts/03_cancer_cell_states/output%20figures/Fig3C_neuronal-1.png)
+![Figure 3D – Neuronal genes MBM vs MPM](reproduction%20scripts/03_cancer_cell_states/output%20figures/Fig3D_neuronal_dot-1.png)
 
 ### 6.4 Macrophages in Brain Tumors Are Pro-Tumor (Figure 4)
 
